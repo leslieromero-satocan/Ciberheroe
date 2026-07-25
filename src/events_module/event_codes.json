@@ -1,0 +1,11 @@
+[
+  { "code": 4624, "label": "login_success" },
+  { "code": 4800, "label": "lock_screen" },
+  { "code": 4802, "label": "lock_screen" },
+  { "code": 1074, "label": "restart" },
+  { "code": 19, "label": "updates" },
+  { "code": 4663, "label": "usb_devices" },
+  { "code": 20001, "label": "usb_devices" },
+  { "code": 20003, "label": "usb_devices" },
+  { "code": 4625, "label": "login_failed" }
+]

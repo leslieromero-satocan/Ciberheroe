@@ -1,0 +1,869 @@
+2026-06-06 17:24:10 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:24:11 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:24:12 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:24:17 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:24:18 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:24:20 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:24:20 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:24:21 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:24:21 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:24:21 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:24:27 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:24:27 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:24:32 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:24:35 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:24:37 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:24:38 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:24:46 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:24:53 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:24:58 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:25:01 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:25:02 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:25:09 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:25:11 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:25:12 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:25:16 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:25:22 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:25:23 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:25:26 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:25:36 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:25:43 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:25:48 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:25:50 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:25:53 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:25:53 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:25:55 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:25:58 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:25:59 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:26:07 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:26:10 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:26:10 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:26:12 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:26:12 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:26:16 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:26:20 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:26:22 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:26:24 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:26:30 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:26:31 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:26:34 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:26:40 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:26:48 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:26:50 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:26:51 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:26:54 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:26:56 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:26:57 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:26:58 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:02 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:03 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:06 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:09 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:11 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:12 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:15 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:19 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:19 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:23 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:27 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:31 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:31 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:34 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:36 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:38 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:38 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:40 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:41 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:49 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:54 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:55 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:56 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:56 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:27:57 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:02 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:02 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:04 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:05 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:06 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:14 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:14 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:14 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:17 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:17 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:18 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:20 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:22 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:23 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:23 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:24 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:25 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:30 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:30 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:32 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:33 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:33 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:34 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:34 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:37 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:37 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:41 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:43 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:46 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:46 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:46 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:48 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:50 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:51 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:28:52 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:30:55 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:30:56 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:30:58 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:04 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:06 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:06 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:06 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:06 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:06 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:09 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:10 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:11 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:12 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:13 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:13 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:14 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:14 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:14 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:16 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:17 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:17 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:17 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:18 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:18 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:20 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:21 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:22 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:23 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:26 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:28 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:28 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:31 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:38 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:38 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:39 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:39 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-06 17:31:42 - ERROR - ciberheroe.google_module.etl: line 231
+         - Se han registrado 219 usuarios cuyo email no se puede acceder
+2026-06-06 17:31:42 - INFO - ciberheroe.google_module.etl: line 234
+         - Completada la extracción, empezando la inserción en la BD...
+2026-06-06 17:31:43 - INFO - ciberheroe.google_module.etl: line 28
+         - Insertados los datos en la tabla google_metrics
+2026-06-06 17:31:43 - INFO - ciberheroe.google_module.etl: line 47
+         - Insertadas las métricas de Google para cada usuario
+2026-06-06 17:31:43 - INFO - ciberheroe.google_module.etl: line 28
+         - Insertados los datos en la tabla google_user_scores
+2026-06-06 17:31:43 - INFO - ciberheroe.google_module.etl: line 34
+         - Insertadas las puntuaciones de Google para cada usuario
+2026-06-06 17:31:43 - INFO - ciberheroe.events_module.etl: line 12
+         - Extraídas las puntuaciones para las métricas de los Eventos de Windows
+2026-06-06 17:31:43 - INFO - ciberheroe.events_module.etl: line 29
+         - Obtenido el sistema de puntuación de la BD
+2026-06-06 17:31:43 - INFO - ciberheroe.events_module.etl: line 28
+         - Insertados los datos en la tabla events_users
+2026-06-06 17:31:43 - INFO - ciberheroe.events_module.etl: line 44
+         - Insertados los usuarios de Eventos de Windows
+2026-06-06 17:31:43 - INFO - ciberheroe.events_module.etl: line 33
+         - Leídas las métricas existentes de Eventos de Windows del mes actual
+2026-06-06 17:31:44 - INFO - ciberheroe.events_module.etl: line 28
+         - Insertados los datos en la tabla events_metrics
+2026-06-06 17:31:44 - INFO - ciberheroe.events_module.etl: line 25
+         - Insertadas las métricas de Eventos de Windows para cada usuario
+2026-06-06 17:31:44 - INFO - ciberheroe.events_module.etl: line 28
+         - Insertados los datos en la tabla events_user_scores
+2026-06-06 17:31:44 - INFO - ciberheroe.events_module.etl: line 19
+         - Insertadas las puntuaciones de Eventos de Windows para cada usuario
+2026-06-09 19:03:26 - INFO - ciberheroe.knowbe4_module.api: line 79
+         - Extraidos 393 usuarios de la REST API
+2026-06-09 19:03:28 - INFO - ciberheroe.knowbe4_module.api: line 83
+         - Extraidos 236 PSTs de la REST API
+2026-06-09 19:03:29 - INFO - ciberheroe.knowbe4_module.api: line 93
+         - Extraida la informacion de los resultados de la prueba de seguridad
+2026-06-09 19:03:33 - INFO - ciberheroe.knowbe4_module.api: line 133
+         - Extraida la informacion de las contraseñas por usuario
+2026-06-09 19:06:15 - INFO - ciberheroe.knowbe4_module.api: line 152
+         - Extraida la informacion de los tests de phishing (PST) de la GraphAPI
+2026-06-09 19:06:39 - INFO - ciberheroe.knowbe4_module.api: line 170
+         - Extraida la informacion relativa a los usuarios (puntuaciones,
+         formaciones) de la GraphAPI
+2026-06-09 19:06:43 - INFO - ciberheroe.knowbe4_module.api: line 193
+         - Extraida la informacion relativa a las formaciones realizadas
+          en los ultimos 12 meses
+2026-06-09 19:06:43 - INFO - ciberheroe.knowbe4_module.basic_metrics: line 78
+         - Calculado el porcentaje phish-prone
+2026-06-09 19:06:43 - INFO - ciberheroe.knowbe4_module.basic_metrics: line 96
+         - Calculado el porcentaje de emails de phishing denunciados
+2026-06-09 19:06:43 - INFO - ciberheroe.knowbe4_module.basic_metrics: line 122
+         - Obtenidos los usuarios con mayor numero de formaciones
+2026-06-09 19:06:45 - INFO - ciberheroe.knowbe4_module.basic_metrics: line 196
+         - Calculado el porcentaje de clicks en links de phishing para cada usuario
+2026-06-09 19:06:45 - INFO - ciberheroe.knowbe4_module.basic_metrics: line 257
+         - Se han obtenido las mejores plantillas de phishing
+2026-06-09 19:06:45 - INFO - ciberheroe.knowbe4_module.basic_metrics: line 272
+         - Se han obtenido a los usuarios con menor riesgo
+2026-06-09 19:06:45 - INFO - ciberheroe.knowbe4_module.basic_metrics: line 257
+         - Se han obtenido las mejores plantillas de phishing
+2026-06-09 19:06:46 - INFO - ciberheroe.knowbe4_module.basic_metrics: line 321
+         - Se han registrado 287 usuarios que han reportado phishing
+2026-06-09 19:06:46 - INFO - ciberheroe.knowbe4_module.basic_metrics: line 366
+         - Se han registrado 300 usuarios que han realizado al menos una formación
+2026-06-09 19:06:56 - INFO - ciberheroe.knowbe4_module.admin_metrics: line 68
+         - Se han obtenido los usuarios vulnerables
+2026-06-09 19:06:56 - INFO - ciberheroe.knowbe4_module.admin_metrics: line 109
+         - Se han obtenido a los usuarios con contraseñas vulnerables
+2026-06-09 19:07:09 - INFO - ciberheroe.knowbe4_module.scores: line 448
+         - Se han calculado las puntuaciones de cada usuario
+         acorde a los criterios establecidos
+2026-06-09 19:07:30 - INFO - ciberheroe.google_module.etl: line 40
+         - Extraídas las puntuaciones para las métricas de Google
+2026-06-09 19:07:30 - INFO - ciberheroe.google_module.etl: line 30
+         - Obtenido el sistema de puntuación de la BD
+2026-06-09 19:07:30 - INFO - ciberheroe.google_module.etl: line 29
+         - Leídas las métricas existentes de este mes de la BD
+2026-06-09 19:07:36 - INFO - ciberheroe.google_module.etl: line 44
+         - Obtenida la lista de todos los usuarios
+2026-06-09 19:07:56 - INFO - ciberheroe.google_module.etl: line 111
+         - Dispositivos corporativos: obtenidos los dispositivos fisicos
+2026-06-09 19:08:57 - INFO - ciberheroe.google_module.etl: line 141
+         - Dispositivos corporativos: obtenidos los dispositivos junto con los usuarios
+2026-06-09 19:08:57 - INFO - ciberheroe.google_module.etl: line 51
+         - Obtenida la lista de dispositivos utilizados
+2026-06-09 19:09:22 - INFO - ciberheroe.google_module.etl: line 28
+         - Insertados los datos en la tabla google_users
+2026-06-09 19:09:22 - INFO - ciberheroe.google_module.etl: line 23
+         - Insertados los usuarios en la base de datos
+2026-06-09 19:09:22 - INFO - ciberheroe.google_module.etl: line 218
+         - Empezando la extracción de la información de los 1455 usuarios...
+2026-06-09 19:09:27 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:09:30 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:09:46 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:09:47 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:09:49 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:09:52 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:10:00 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:10:21 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:10:22 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:10:27 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:10:33 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:10:48 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:10:49 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:10:58 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:11:02 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:11:06 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:11:07 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:11:10 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:11:12 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:11:14 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:11:20 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:11:22 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:11:26 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:11:33 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:11:34 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:11:51 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:11:53 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:11:55 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:11:55 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:12:02 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:12:06 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:12:17 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:12:25 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:12:25 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:12:27 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:12:27 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:12:31 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:12:34 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:12:40 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:12:45 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:12:49 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:12:53 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 401: [{'message': 'Active session is invalid. Error code: 4', 'domain': 'global', 'reason': 'authError', 'location': 'Authorization', 'locationType': 'header'}]
+2026-06-09 19:12:53 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 401: [{'message': 'Active session is invalid. Error code: 4', 'domain': 'global', 'reason': 'authError', 'location': 'Authorization', 'locationType': 'header'}]
+2026-06-09 19:12:55 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:13:00 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:13:03 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:13:06 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:13:10 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:13:18 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:13:21 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:13:27 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:13:29 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:13:32 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:13:33 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:13:36 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:13:44 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:13:48 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:13:49 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:13:52 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:13:57 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:13:59 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:14:01 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:14:04 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:14:08 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:14:08 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:14:12 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:14:12 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:14:16 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:14:26 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:14:29 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:14:31 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:14:31 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:14:31 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:14:32 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:14:34 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:14:34 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:14:39 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:14:40 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:14:43 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:14:44 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:14:49 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:14:53 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:15:04 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:15:16 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:15:25 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:15:27 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:15:28 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:15:31 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:15:36 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:15:36 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:15:38 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:15:42 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:15:49 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:15:54 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:16:09 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:16:12 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:16:13 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:16:14 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:16:23 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:16:25 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:16:32 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:16:34 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:16:36 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:16:40 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:16:44 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:16:45 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:16:46 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:16:47 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:16:48 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:16:53 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:16:53 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:16:57 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:16:57 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:16:59 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:17:04 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:17:11 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:17:17 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:17:20 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:17:23 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:17:27 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:17:28 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:17:29 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:17:31 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:17:31 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:17:37 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:17:42 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:17:50 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:17:52 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:17:56 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:18:00 - ERROR - ciberheroe.google_module.etl: line 27
+         - API Rate Limited (Code 500). Retrying in 2.00s... (Attempt 1/5)
+2026-06-09 19:18:00 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:18:01 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:18:09 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:18:14 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:18:23 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:18:24 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:18:26 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:18:27 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:18:30 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:18:34 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:18:37 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:18:45 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:18:51 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:18:58 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:19:08 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:19:13 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:19:13 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:19:15 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:19:16 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:19:16 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:19:25 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:19:27 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:19:29 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:19:29 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:19:40 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:19:43 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:19:44 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:19:45 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:19:45 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:19:45 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:19:47 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:19:50 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:19:53 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:19:54 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:20:00 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:20:03 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:20:11 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:20:12 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:20:13 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:20:14 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:20:15 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:20:17 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:20:20 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:20:21 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:20:21 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:20:31 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:20:37 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:20:39 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:20:40 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:20:40 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:20:42 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:20:49 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:20:49 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:20:52 - ERROR - ciberheroe.google_module.etl: line 27
+         - API Rate Limited (Code 500). Retrying in 1.93s... (Attempt 1/5)
+2026-06-09 19:20:54 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:10 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:15 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:19 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:23 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:26 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:27 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:27 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:28 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:29 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:35 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:37 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:41 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:41 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:42 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:42 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:43 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:43 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:44 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:44 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:46 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:47 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:47 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:48 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:48 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:21:56 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:22:00 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:22:01 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:22:03 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:22:06 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:22:06 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:22:08 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:22:12 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:22:22 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:22:22 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:22:23 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:22:23 - ERROR - ciberheroe.google_module.etl: line 34
+         - Non-retriable error 400: [{'message': 'Mail service not enabled', 'domain': 'global', 'reason': 'failedPrecondition'}]
+2026-06-09 19:22:33 - ERROR - ciberheroe.google_module.etl: line 231
+         - Se han registrado 217 usuarios cuyo email no se puede acceder
+2026-06-09 19:22:33 - INFO - ciberheroe.google_module.etl: line 234
+         - Completada la extracción, empezando la inserción en la BD...
+2026-06-09 19:22:33 - INFO - ciberheroe.google_module.etl: line 28
+         - Insertados los datos en la tabla google_metrics
+2026-06-09 19:22:33 - INFO - ciberheroe.google_module.etl: line 47
+         - Insertadas las métricas de Google para cada usuario
+2026-06-09 19:22:34 - INFO - ciberheroe.google_module.etl: line 28
+         - Insertados los datos en la tabla google_user_scores
+2026-06-09 19:22:34 - INFO - ciberheroe.google_module.etl: line 34
+         - Insertadas las puntuaciones de Google para cada usuario
+2026-06-09 19:22:34 - INFO - ciberheroe.events_module.etl: line 12
+         - Extraídas las puntuaciones para las métricas de los Eventos de Windows
+2026-06-09 19:22:34 - INFO - ciberheroe.events_module.etl: line 29
+         - Obtenido el sistema de puntuación de la BD
+2026-06-09 19:22:34 - INFO - ciberheroe.events_module.etl: line 28
+         - Insertados los datos en la tabla events_users
+2026-06-09 19:22:34 - INFO - ciberheroe.events_module.etl: line 44
+         - Insertados los usuarios de Eventos de Windows
+2026-06-09 19:22:34 - INFO - ciberheroe.events_module.etl: line 33
+         - Leídas las métricas existentes de Eventos de Windows del mes actual
+2026-06-09 19:22:34 - INFO - ciberheroe.events_module.etl: line 28
+         - Insertados los datos en la tabla events_metrics
+2026-06-09 19:22:34 - INFO - ciberheroe.events_module.etl: line 25
+         - Insertadas las métricas de Eventos de Windows para cada usuario
+2026-06-09 19:22:34 - INFO - ciberheroe.events_module.etl: line 28
+         - Insertados los datos en la tabla events_user_scores
+2026-06-09 19:22:34 - INFO - ciberheroe.events_module.etl: line 19
+         - Insertadas las puntuaciones de Eventos de Windows para cada usuario
